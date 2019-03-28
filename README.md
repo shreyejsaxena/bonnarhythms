@@ -5,7 +5,9 @@ Result ~ https://open.spotify.com/playlist/6hLQ3q1Rq7o0gmmJCQGuyf
 
 ### Thanks to the open source community that made this algorhytmic playlist possible
 Spotify: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
+
 spotipy: https://spotipy.readthedocs.io/en/latest/
+
 pam clustering: https://www.rdocumentation.org/packages/cluster/versions/2.0.7-1/topics/pam
 
 ### Background
